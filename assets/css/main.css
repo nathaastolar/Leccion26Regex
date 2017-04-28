@@ -1,0 +1,12 @@
+div{
+  text-align: center;
+}
+.contenedor{
+  margin: 0 auto;
+  text-align: center;
+  display: block;
+}
+input,label,span,button{
+  display: block;
+  margin: 5px auto;
+}
